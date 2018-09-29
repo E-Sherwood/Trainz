@@ -5,6 +5,9 @@ needed functionality:
 -multiple users from different machines view same train times
 ---------------------------------------------------------------------------------
 -need a table to display info <table><th><tr><td></table>
--database updates display (pull from firebase) (on value function?)
+-database updates display (pull from firebase) (on 'value' function?)
 -database updates on a frequency basis (ie, every minute)(moment trigger?)
 -table formats to show next train by ascending time of arrival (sorting/loop function?)
+--------------------------------------------------------------------------------------
+
+
