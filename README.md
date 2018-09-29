@@ -1,5 +1,5 @@
 A broken webpage that is intended to hit a firebase database and update scheduled trains and keep track of arrival times via moment.js.
-~~working pieces~~
+~~working pieces
 -clock that updates the current local time and displays at the top of the page
 -firebase database updated with new train entry when user fills in input fields and hits submit
 -table updated with user input text (not firebase entry unfortunately)
